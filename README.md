@@ -1,5 +1,6 @@
 # CormorantOceans
-Repository for Cormorant Oceanography Projects
+
+Data visualization and processing scripts.
 
 Alexa Piggott
 
@@ -9,4 +10,4 @@ https://www.osudashcams.com/
 
 alexa.piggott@oregonstate.edu
 
-Data visualization and processing scripts.
+
