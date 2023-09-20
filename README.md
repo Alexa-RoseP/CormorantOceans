@@ -4,7 +4,7 @@ Data visualization and processing scripts.
 
 Alexa Piggott
 
-Cormorant Oceanography Project_OSU
+Cormorant Oceanography Project_Oregon State University
 
 https://www.osudashcams.com/
 
